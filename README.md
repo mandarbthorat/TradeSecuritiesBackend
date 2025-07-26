@@ -60,9 +60,3 @@ README.md
 
 - To add support for other file types or data sources, implement the repository interfaces in `/Infrastructure`
 - To change output formatting, edit the Application layer’s aggregation display methods
-
-## Author
-
-This project was developed as a code test for an engineering interview.  
-**Contact:** *Mandar Thorat / mandarbthorat@gmail.com*
-
