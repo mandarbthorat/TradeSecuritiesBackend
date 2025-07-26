@@ -16,7 +16,7 @@ This project is a C# console application designed to:
 ## Setup & Usage
 
 1. **Prerequisites**
-    - .NET 6+ SDK
+    - .NET Framework 4.6
     - Place your `Securities.xml` and all `Trades*.xml` files in the specified folders
 
 2. **App Configuration**
@@ -24,11 +24,7 @@ This project is a C# console application designed to:
     - If these are blank or missing, you will be prompted at runtime
 
 3. **Build & Run**
-    ```sh
-    dotnet build
-    dotnet run --project CodeTest.Presentation
-    ```
-    Or use Visual Studio to build and run the solution.
+      use Visual Studio to build and run the solution.
 
 4. **Output**
     - Aggregated trade results will be shown in the console, in a neatly aligned tabular format
