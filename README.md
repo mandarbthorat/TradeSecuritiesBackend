@@ -24,7 +24,7 @@ This project is a C# console application designed to:
     - If these are blank or missing, you will be prompted at runtime
 
 3. **Build & Run**
-      use Visual Studio to build and run the solution.
+    - Use Visual Studio to build and run the solution.
 
 4. **Output**
     - Aggregated trade results will be shown in the console, in a neatly aligned tabular format
